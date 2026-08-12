@@ -1,0 +1,19 @@
+VERSION="2.0.0"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+ACCOUNTS=[
+  "GBUNMCHJICFCZYKAEE3MO43KSAMBBWE3UCZXWRTHWNW6VUL337PIAMCC"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Quantum Apple"
+ORG_URL="https://qappl.org"
+ORG_DESCRIPTION="Quantum Apple is the issuer of the QAPPL digital asset on the Stellar network."
+
+[[CURRENCIES]]
+code="QAPPL"
+issuer="GBUNMCHJICFCZYKAEE3MO43KSAMBBWE3UCZXWRTHWNW6VUL337PIAMCC"
+name="Quantum Apple"
+desc="QAPPL is the Quantum Apple digital asset issued on the Stellar network."
+is_asset_anchored=false
+display_decimals=7
